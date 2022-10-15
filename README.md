@@ -1,7 +1,18 @@
 
 # Dockerize PHP8 - MYSQL - GIT - COMPOSER 
 
-PHP'yi ve Mysql Docker üzerinden kullanmak için kullanılır. 
+PHP ve Mysql'i Docker üzerinden kullanmak için kullanılır. 
+
+- PHP8
+
+- MYSQL 5.7
+
+- NginX 1.13 (8080 portunu kullanacağız)
+
+image'ları kullanılmıştır.
+
+
+
 
 # Kurulum
 Repository'i bir dizine clonlayın ve docker-compose.yml dosyasının olduğu dizine cd komutu ile geçip
